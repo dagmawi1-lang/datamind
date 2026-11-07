@@ -1,0 +1,5 @@
+datamind_report/
+__pycache__/
+.pytest_cache/
+.env
+node_modules/
