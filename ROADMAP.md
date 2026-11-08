@@ -8,7 +8,7 @@
 - [x] Automated analytical reports (self-contained HTML + Markdown)
 - [x] 7 tests including a zero-findings check on random noise
 
-## Next
+## Planned improvements
 - [ ] Multiple-regression view ("study hours still matters after controlling for sleep and phone time")
 - [ ] Seasonality detection for time series (weekly/annual)
 - [ ] Interactive HTML charts
