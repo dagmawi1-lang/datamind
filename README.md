@@ -2,6 +2,16 @@
 
 Give DataMind a messy CSV, Excel, or JSON file. It cleans the data (and logs every change), profiles each column, runs the statistics, finds patterns worth knowing, draws charts, and writes a self-contained HTML report in plain language with the evidence and caveats behind each claim.
 
+![Generated chart: strongest relationship and averages by group](docs/screenshot.jpg)
+
+## My role & contributions
+
+**Solo developer · AI-assisted**
+
+- Designed the cleaning steps and the change log that records every edit to the data
+- Chose robust statistics (Spearman, Kruskal–Wallis, Theil–Sen) so outliers don't create fake findings
+- Tested it on pure random noise to confirm it reports nothing there
+
 **Language:** Python (pandas, NumPy, SciPy, matplotlib)
 **Shows:** data cleaning, statistics, visualization, and careful analytical reasoning.
 
